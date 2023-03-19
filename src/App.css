@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.display-flex {
+  display: flex;
+}
+
+pre {
+  font-size: 12px;
+}
+
+select {
+  -moz-appearance:none !important;
+  -webkit-appearance: none !important; 
+  appearance: none !important;
+  padding: 10px;
+}
+
